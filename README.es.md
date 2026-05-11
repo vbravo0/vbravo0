@@ -4,6 +4,8 @@
 
 Data Engineer en Buenos Aires. Construyo y mantengo pipelines batch, DAGs en Airflow y flujos de Data Lake en entornos financieros productivos.
 
+Licenciado en Análisis de Sistemas (FIUBA, 2024). Cursando los últimos tramos de Ingeniería en Informática (FIUBA).
+
 ## Stack
 
 **Producción:** Python · SQL · PySpark · Apache Airflow · AWS S3 · Parquet · SQL Server  

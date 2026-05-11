@@ -4,6 +4,8 @@
 
 Data Engineer based in Buenos Aires. I build and maintain batch pipelines, Airflow DAGs, and data lake workflows in production financial environments.
 
+B.Sc. in Systems Analysis from FIUBA (2024). Finishing the last stretch of a B.Eng. in Computer Science (FIUBA).
+
 ## Stack
 
 **Production:** Python · SQL · PySpark · Apache Airflow · AWS S3 · Parquet · SQL Server  
