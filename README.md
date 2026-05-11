@@ -1,16 +1,39 @@
-## Hi there 👋
+# Victor Bravo
 
-<!--
-**vbravo0/vbravo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[English](README.md) | [Español](README.es.md)
 
-Here are some ideas to get you started:
+Data Engineer based in Buenos Aires. I build and maintain batch pipelines, Airflow DAGs, and data lake workflows in production financial environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+**Production:** Python · SQL · PySpark · Apache Airflow · AWS S3 · Parquet · SQL Server  
+**Cloud:** AWS · GCP (BigQuery, GCS, Dataproc)  
+**Tooling:** Git · GitLab CI/CD · Docker
+
+## Projects
+
+### [Wave3](https://github.com/wave3org/wave3)
+Decentralized music platform where fans invest in songs and collect royalties.  
+Built on Base Sepolia (L2). Monorepo with 6 services:
+- **Solidity contracts** — ERC-1155 royalty distribution, smart accounts, session keys for gasless playback
+- **Ponder** — on-chain event indexer exposing a GraphQL API
+- **FastAPI ML service** — hybrid recommendation engine: ALS + content features (genre, year) + FAISS
+- **Storage API** — IPFS file management (local node / Pinata in prod)
+- **Next.js frontend** — Scaffold-ETH 2
+- **CI/CD** — GitHub Actions · Hardhat · Docker Compose · Render
+
+### [Harpokrates](https://github.com/harpokrates-org)
+Steganography detection using convolutional neural networks.
+- CNN trained on stego/clean image pairs (Keras / TensorFlow)
+- Model exported to TF.js and run client-side via WebAssembly (Rust/wasm-bindgen)
+- Next.js frontend · Fastify backend · MongoDB · Docker · CI/CD
+
+### [Portal 2D](https://github.com/mechanix97/Portal-Taller-de-Programacion-9508-FIUBA) *(FIUBA — Taller de Programación)*
+Multiplayer Portal clone with client-server architecture in C++.
+- SDL2 for rendering, Qt for the level editor, YAML-cpp for map config
+- Sockets-based networking, CMake build, CxxTest unit tests
+- [Demo on YouTube](https://www.youtube.com/watch?v=zYuNiUTCyk0)
+
+## Contact
+
+[linkedin.com/in/victorbravoarroyo](https://linkedin.com/in/victorbravoarroyo) · victorbravolab@gmail.com · [CV (PDF)](cv-en.pdf)
