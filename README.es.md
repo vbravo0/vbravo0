@@ -30,12 +30,6 @@ Detección de esteganografía en imágenes mediante redes neuronales convolucion
 - Modelo exportado a TF.js e inferencia en el cliente vía WebAssembly (Rust/wasm-bindgen)
 - Frontend Next.js · Backend Fastify · MongoDB · Docker · CI/CD
 
-### [Portal 2D](https://github.com/mechanix97/Portal-Taller-de-Programacion-9508-FIUBA) *(FIUBA — Taller de Programación)*
-Clon multijugador de Portal con arquitectura cliente-servidor en C++.
-- SDL2 para renderizado, Qt para el editor de niveles, YAML-cpp para configuración de mapas
-- Networking sobre sockets, build con CMake, tests unitarios con CxxTest
-- [Demo en YouTube](https://www.youtube.com/watch?v=zYuNiUTCyk0) · [Listado en la página oficial de la cátedra (FIUBA)](https://taller-de-programacion.github.io/trabajos-practicos)
-
 ## Contacto
 
 [linkedin.com/in/victorbravoarroyo](https://linkedin.com/in/victorbravoarroyo) · victorbravolab@gmail.com · [CV (PDF)](cv-es.pdf)

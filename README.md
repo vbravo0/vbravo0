@@ -30,12 +30,6 @@ Steganography detection using convolutional neural networks.
 - Model exported to TF.js and run client-side via WebAssembly (Rust/wasm-bindgen)
 - Next.js frontend · Fastify backend · MongoDB · Docker · CI/CD
 
-### [Portal 2D](https://github.com/mechanix97/Portal-Taller-de-Programacion-9508-FIUBA) *(FIUBA — Taller de Programación)*
-Multiplayer Portal clone with client-server architecture in C++.
-- SDL2 for rendering, Qt for the level editor, YAML-cpp for map config
-- Sockets-based networking, CMake build, CxxTest unit tests
-- [Demo on YouTube](https://www.youtube.com/watch?v=zYuNiUTCyk0) · [Listed on FIUBA's official course page](https://taller-de-programacion.github.io/trabajos-practicos)
-
 ## Contact
 
 [linkedin.com/in/victorbravoarroyo](https://linkedin.com/in/victorbravoarroyo) · victorbravolab@gmail.com · [CV (PDF)](cv-en.pdf)
