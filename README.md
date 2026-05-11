@@ -32,7 +32,7 @@ Steganography detection using convolutional neural networks.
 Multiplayer Portal clone with client-server architecture in C++.
 - SDL2 for rendering, Qt for the level editor, YAML-cpp for map config
 - Sockets-based networking, CMake build, CxxTest unit tests
-- [Demo on YouTube](https://www.youtube.com/watch?v=zYuNiUTCyk0)
+- [Demo on YouTube](https://www.youtube.com/watch?v=zYuNiUTCyk0) · [Listed on FIUBA's official course page](https://taller-de-programacion.github.io/trabajos-practicos)
 
 ## Contact
 

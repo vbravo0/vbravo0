@@ -32,7 +32,7 @@ Detección de esteganografía en imágenes mediante redes neuronales convolucion
 Clon multijugador de Portal con arquitectura cliente-servidor en C++.
 - SDL2 para renderizado, Qt para el editor de niveles, YAML-cpp para configuración de mapas
 - Networking sobre sockets, build con CMake, tests unitarios con CxxTest
-- [Demo en YouTube](https://www.youtube.com/watch?v=zYuNiUTCyk0)
+- [Demo en YouTube](https://www.youtube.com/watch?v=zYuNiUTCyk0) · [Listado en la página oficial de la cátedra (FIUBA)](https://taller-de-programacion.github.io/trabajos-practicos)
 
 ## Contacto
 
